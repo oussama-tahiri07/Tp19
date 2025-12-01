@@ -10,10 +10,10 @@ import org.springframework.cloud.gateway.route.builder.RouteLocatorBuilder;
 import org.springframework.context.annotation.Bean;
 
 @SpringBootApplication
-public class Tp10GateWayApplication {
+public class Tp19GateWayApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(Tp10GateWayApplication.class, args);
+        SpringApplication.run(Tp19GateWayApplication.class, args);
     }
 
     /*

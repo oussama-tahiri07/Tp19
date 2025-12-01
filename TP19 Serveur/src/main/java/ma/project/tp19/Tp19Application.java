@@ -1,4 +1,4 @@
-package ma.project.tp18;
+package ma.project.tp19;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.EnableAutoConfiguration;
@@ -7,10 +7,10 @@ import org.springframework.cloud.netflix.eureka.server.EnableEurekaServer;
 
 @SpringBootApplication
 @EnableEurekaServer
-public class Tp18Application {
+public class Tp19Application {
 
     public static void main(String[] args) {
-        SpringApplication.run(Tp18Application.class, args);
+        SpringApplication.run(Tp19Application.class, args);
     }
 
 }

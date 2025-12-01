@@ -1,4 +1,4 @@
-package ma.project.tp18client.entities;
+package ma.project.tp19client.entities;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;

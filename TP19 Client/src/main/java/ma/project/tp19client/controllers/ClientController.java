@@ -1,7 +1,7 @@
-package ma.project.tp18client.controllers;
+package ma.project.tp19client.controllers;
 
-import ma.project.tp18client.entities.Client;
-import ma.project.tp18client.repositories.ClientRepository;
+import ma.project.tp19client.entities.Client;
+import ma.project.tp19client.repositories.ClientRepository;
 import org.springframework.web.bind.annotation.*;
 import org.springframework.beans.factory.annotation.Autowired;
 import java.util.List;
